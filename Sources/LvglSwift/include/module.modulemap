@@ -1,0 +1,3 @@
+module LvglSwift {
+    umbrella header "Package.h"
+}
