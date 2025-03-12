@@ -1,8 +1,0 @@
-[submodule "lv_drivers"]
-	path = lv_drivers
-	url = https://github.com/lvgl/lv_drivers.git
-	hexsha = 71830257710f430b6d8d1c324f89f2eab52488f1
-[submodule "lvgl"]
-	path = lvgl
-	url = https://github.com/lvgl/lvgl.git
-        hexsha = 2b56e04205481daa6575bd5f7ab5df59d11676eb
